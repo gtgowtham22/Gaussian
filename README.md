@@ -59,6 +59,7 @@ RegisterNumber: 24901330
 
 ## Output:
 ![gaussian elimination]()
+![6th maths for ai](https://github.com/user-attachments/assets/cea1c374-8512-487e-be84-149a5211cb48)
 
 
 ## Result:
